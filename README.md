@@ -15,7 +15,7 @@
 
 ### Links
 
-- Solution URL: (https://github.com/HaseebaAlhaddi/Frontend-Mentor-Social-links-profile)
+- Solution URL: (https://github.com/HaseebaAlhaddi/Frontend-Mentor-Product-preview-card-component)
 - Live Site URL: (https://haseebaalhaddi.github.io/Frontend-Mentor-Social-links-profile/)
 
 ## My process
